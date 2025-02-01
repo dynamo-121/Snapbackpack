@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1, h2 {
+    color: #003366;
+}
+
+.btn-primary {
+    background-color: #003366;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #002244;
+}
+
+/* Hero Section */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 2rem 0;
+}
+
+header img {
+    max-width: 50%;
+    margin: auto;
+    display: block;
+}
+
+/* Features Section */
+#features .card {
+    border: none;
+    background-color: #fff;
+}
+
+#features .card-title {
+    color: #003366;
+}
+
+#features .card-text {
+    color: #555;
+}
+
+/* Product Showcase */
+#product img {
+    max-width: 50%;
+    margin: auto;
+    display: block;
+}
+
+/* Call to Action */
+#buy-now {
+    background-color: #003366;
+    color: white;
+    padding: 2rem 0;
+}
+
+#buy-now .btn-light {
+    background-color: white;
+    color: #003366;
+    border: none;
+}
+
+#buy-now .btn-light:hover {
+    background-color: #f0f0f0;
+}
